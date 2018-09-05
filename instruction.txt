@@ -1,0 +1,8 @@
+        ***AIUB SPRING 2016***
+        ***ZAMAN MD SUMSUSH'S GROUP ***
+
+1>this project name is MH school Management system. 
+2>All copyrights belongs to sumsushzaman and Manzurul Hasan sir 
+3> First of all you have to install sql server 2014 as well as visual studio 
+then run this files
+           THANK YOU :) 
